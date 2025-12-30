@@ -37,12 +37,5 @@ This project demonstrates how to build, version, track, and deploy a **Deep Lear
 ## 📂 Project Structure
 
 
----
-
-If you want next, I can:
-- ✅ Create **GitHub Actions CI/CD YAML**
-- ✅ Add **Dockerfile**
-- ✅ Add **AWS deployment steps**
-- ✅ Add **CNN training pipeline code**
 
 
