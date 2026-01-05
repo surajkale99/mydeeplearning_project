@@ -1,1 +1,17 @@
 [2025-12-30 13:15:27,199: INFO: main: Welcome to CNN CLASSIFER log]
+[2026-01-05 12:15:56,618: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-05 12:15:56,641: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-05 12:15:56,653: INFO: common: created directory at: artifacts]
+[2026-01-05 12:15:56,655: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-05 12:15:56,659: INFO: 3172177572: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-05 12:16:05,214: INFO: 3172177572: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-05 13:18:14,964: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-05 13:18:14,967: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-05 13:18:14,969: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-05 13:18:14,971: INFO: common: created directory at: artifacts]
+[2026-01-05 13:18:14,973: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-05 13:18:14,977: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-05 13:18:25,764: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-05 13:18:27,250: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
