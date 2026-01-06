@@ -15,3 +15,26 @@
 [2026-01-05 13:18:27,250: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2026-01-06 13:12:01,763: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-06 13:12:01,774: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-06 13:12:01,777: INFO: common: created directory at: artifacts]
+[2026-01-06 13:12:01,779: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-06 13:31:05,308: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-06 13:31:05,314: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-06 13:31:05,319: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-06 13:31:05,320: INFO: common: created directory at: artifacts]
+[2026-01-06 13:31:05,321: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-06 13:31:05,355: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-06 13:32:33,929: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-06 13:32:35,781: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-06 13:32:35,782: INFO: main: *******************]
+[2026-01-06 13:32:35,782: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2026-01-06 13:32:35,785: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-06 13:32:35,790: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-06 13:32:35,790: INFO: common: created directory at: artifacts]
+[2026-01-06 13:32:35,792: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-06 13:32:38,030: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
