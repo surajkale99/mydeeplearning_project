@@ -103,3 +103,53 @@ x==========x]
 [2026-01-08 12:28:37,827: INFO: main: >>>>>> stage Training completed <<<<<<
 
 x==========x]
+[2026-01-12 12:57:28,505: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-12 12:57:28,551: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-12 12:57:28,554: INFO: common: created directory at: artifacts]
+[2026-01-12 12:58:26,160: INFO: common: json file saved at: scores.json]
+[2026-01-12 13:04:46,553: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-12 13:04:46,559: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-12 13:04:46,562: INFO: common: created directory at: artifacts]
+[2026-01-12 13:05:39,940: INFO: common: json file saved at: scores.json]
+[2026-01-12 13:11:33,563: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-12 13:11:33,570: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-12 13:11:33,573: INFO: common: created directory at: artifacts]
+[2026-01-12 13:12:30,673: INFO: common: json file saved at: scores.json]
+[2026-01-13 12:34:42,283: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-13 12:34:42,349: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-13 12:34:42,450: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-13 12:34:42,451: INFO: common: created directory at: artifacts]
+[2026-01-13 12:34:42,452: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-13 12:34:42,454: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-13 12:34:51,769: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-13 12:34:54,432: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-13 12:34:54,440: INFO: main: *******************]
+[2026-01-13 12:34:54,444: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2026-01-13 12:34:54,460: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-13 12:34:54,597: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-13 12:34:54,607: INFO: common: created directory at: artifacts]
+[2026-01-13 12:34:54,659: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-01-13 12:34:58,165: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2026-01-13 12:34:58,166: INFO: main: *******************]
+[2026-01-13 12:34:58,166: INFO: main: >>>>>> stage Training started <<<<<<]
+[2026-01-13 12:34:58,171: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-13 12:34:58,175: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-13 12:34:58,177: INFO: common: created directory at: artifacts]
+[2026-01-13 12:34:58,179: INFO: common: created directory at: artifacts\training]
+[2026-01-13 12:37:22,273: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2026-01-13 12:37:22,274: INFO: main: *******************]
+[2026-01-13 12:37:22,275: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2026-01-13 12:37:22,286: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-13 12:37:22,289: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-13 12:37:22,290: INFO: common: created directory at: artifacts]
+[2026-01-13 12:38:09,585: INFO: common: json file saved at: scores.json]
+[2026-01-13 12:38:09,589: INFO: common: json file saved at: scores.json]
+[2026-01-13 12:38:46,675: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
